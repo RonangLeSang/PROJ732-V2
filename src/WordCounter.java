@@ -15,9 +15,19 @@ public class WordCounter {
         }
     }
 
+    public WordCounter(){}
+
+    public void setText(ArrayList<String> sentences){
+        for(String sentence : sentences){
+            String[] sentenceList = sentence.split(" ");
+            for (String element : sentenceList) {
+                text.add(element);
+            }
+        }
+    }
+
     public HashMap count(){
         for(String word : text){
-            System.out.println(text);
             if(wordCount.containsKey(word)){
                 wordCount.put(word, wordCount.get(word)+1);
             }else{

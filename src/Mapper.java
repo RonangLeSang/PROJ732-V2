@@ -10,6 +10,14 @@ public class Mapper extends Thread{
         this.counter = new WordCounter(text);
     }
 
+    public Mapper() {
+        this.counter = new WordCounter();
+    }
+
+    public void setText(ArrayList<String> text){
+        this.counter.setText(text);
+    }
+
     public HashMap<String, Integer> getWordCount() {
         return wordCount;
     }
