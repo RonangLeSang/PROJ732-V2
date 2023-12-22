@@ -35,10 +35,10 @@ public class Main {
         Splitter splitter = new Splitter();
         ArrayList<String> splittedSentences = splitter.splitPhrases(splitter.normalization(text));
 
+
         ArrayList<Mapper> workers = Main.createWorkers(2);
 
-        ArrayList<ArrayList<String>> splittedWork = new ArrayList<ArrayList<String>>();
-
+        ArrayList<ArrayList<String>> splittedWork = coordinator.splitList(splittedSentences, 2);
         startWorkers(workers, splittedWork);
 
         // Wait for both threads to finish
