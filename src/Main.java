@@ -37,6 +37,8 @@ public class Main {
 
         ArrayList<Mapper> workers = Main.createWorkers(2);
 
+        ArrayList<ArrayList<String>> splittedWork = new ArrayList<ArrayList<String>>();
+
         startWorkers(workers, splittedWork);
 
         // Wait for both threads to finish
