@@ -1,0 +1,895 @@
+
+
+
+
+
+
+
+
+
+
+By Alex OBT 
+
+ 
+
+
+
+Runtime: 60 mins
+Cast size: 50-70. 16F, 9M, 11X, 17XF, 8XM, plus or minus 10
+XF/XM: Written as female or male respectively, but possible to change with minimal adjustments to script
+
+Introduction 
+A New You! is half modern-day satire of celebrity culture and reality TV, and half magical fairytale. The separate but interwoven storylines make this play easy to rehearse with two or more separate classes or groups. It was originally written for a girls’ summer camp, so the majority of roles, especially the large ones, are female; though many could be made into male parts with a little imagination, if working with a mixed-sex group. It will appeal to an age range of 7-15. If working with a mixed-age group, the modern-day sequences, full of shallow media types, will be fun for older children to play, while the fairytale sequence with its dramatic archetypes will be enjoyed by younger children. The parts vary in size, but are as evenly spread as possible, with multiple ‘main’ roles, to ease line learning pressure, and even the smallest roles are written to allow those actors a moment of glory!
+
+Copyright and fair usage statement
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+I’m making this script available online mainly because I’d like to see it get used and enjoyed in other school, camp, or youth theatre productions. You have my permission to download it, tweak it to meet your own needs, and perform it. All I ask is that you attribute the script to me (and my co-authors where applicable), and let me know if you are staging it! I would also be grateful to receive a donation proportional to the budget of your production: suggested donation £10/$15 to http://www.patreon.com/alexobt. 
+
+Synopsis
+Because you can’t put a price on perfection.
+Eva Young. Fashion guru, beauty expert, wealthy businesswoman, and role model for young girls across the country. Her latest TV show, A New You!, takes five teenage girls and coaches them in the ways of celebrity. The winner gets to become the host of a brand-new teen talk show. For most girls, it’s a fairytale come true; but not for Carly Plunkett, who doesn’t care about the glitz and glamour of being a celebrity. But a girl like Carly is exactly what Eva’s looking for, which is why Carly soon finds herself transported into the strange world of reality TV. Although Carly is sceptical at first, she soon discovers that there’s another side to Eva that the TV doesn’t show: a side steeped in imagination and wonder, which transports her into a fairytale of a very different kind…
+
+ 
+Character list
+
+COMMERCIAL
+Age (Medium, X) The sinister embodiment of Age is a Grim Reaper-like spectre.
+April (Medium, XF) A helpless victim of Age.
+June (Medium, XF) The plucky saviour, wielding the cream with the power to overcome Age.
+Youth (Small, X) A nimble agent of Aphrodite Rejuvenate Cream.
+Beauty (Small, X) A nimble agent of Aphrodite Rejuvenate Cream.
+
+MODERN DAY
+Carly Plunkett (Main, F). Hot-tempered Carly hates celebrity culture and isn’t afraid to say it…something that sees her dragged into it anyway.
+Nieve Hicks (Medium, XF). The celebrity-mad best friend of Carly. Giggly, with dreams of making it big one day.
+Bertha (Small, XF) A deluded talent show tryout.
+Cleo (Small, XF) A hopeful talent show tryout.
+Donna (Small, XF) A dreamy talent show tryout.
+	Number of tryouts can be increased or reduced
+Angel Loveday (Main, F). A surly starlet who seems to think she’s too good to talk to anyone else.
+Carmen de Wit (Big, F). A pampered foot model who believes herself the most beautiful thing to walk the Earth. 
+Misty River (Big, F). A ditzy ballerina with her head in the clouds.
+Petal Monroe (Big, F). A tween beauty contest winner who’s constantly excited.
+Eva Young (Main, F) The charismatic and powerful host of A New You!, and director of the Young Foundation. Eva’s polished public face hides a dark secret.
+Rebecca (Medium, XF) Eva’s constantly run-down and weary executive assistant.  
+Jessica (Big, F) Smarmy and fast-talking fashion expert.
+Abigail (Big, F) Sharp-tongued and cutthroat style advisor.		
+Brock Carraway (Medium, XM) Smooth-talking talkshow announcer.
+Prompter (Non-speaking, XM) Gregarious hype man for the audience. Can be played by stagehand.	
+Yvette (Small, XF) European hairdresser.			
+Flora (Small, XF) New Age stylist.				
+Janice (Small, XF) Self-regarding makeup artist.		
+Brady (Small, XF) Over-excited manicurist.			
+Nicky (Small, XF) Meticulous pedicurist.	
+	Fashion team can be increased or reduced
+Challenge presenters and assistants x 6 (Small, X) The tough and hard-to-impress team responsible for devising challenges. Can be variable in size.
+Two Dimensions [Harvey, Lewis, Zack, Wayne, Alec] (Medium, M) Heartthrob boy band. Number of members can be increased or reduced.		 
+
+FAIRYTALE 
+Mannequin (Big, X) The keeper of the fairytale book and narrator of the story is an old mannequin, kept locked away with Princess Kimmie. Could be divided into 3 parts.
+Princess Kimmie (Main, F) A curse causes Kimmie to age quickly, causing her to be ignored and left to her own devices. She’s wise and thoughtful, but desperate to find a cure for her ageing.
+Princess Callie (Main, F) The beautiful daughter, favoured by the Queen and raised in a style befitting a princess. Callie is nevertheless loyal to her sister and not afraid to risk her life for her.
+Queen (Medium, F) Shallow and vainglorious, the Queen cares about nothing but herself and her beauty.		 
+King (Medium, M) A kind and  jolly ruler, desperate for a cure to his daughter’s ailment.
+Doctor (Big, M) A bumbling and incompetent advisor to the King.
+Handmaiden (Medium, F) The smart and sassy Queen’s maid.		
+Governess (Medium, F) The strict and dutiful mother figure to the princesses.
+Balthazar (Small, XM) A pompous emissary to the King.
+Caspar (Small, XM) A kow-towing emissary to the King.
+Melchior (Small, XM) A melodramatic emissary to the King.
+Captain (Medium, M) The forthright and strident voyage commander. 
+[Shaman (Medium, X) A mysterious masked figure with dark powers. Played by the same person as Age.]
+Emperor (Medium, M) The tyrannical and ageless ruler of a foreign empire.
+Minister (Medium, XM) The power-hungry right-hand man to the Emperor. 
+Herald (Medium, XM) Loudmouthed announcer for the Emperor’s temple. 
+Temple prompter (Non-speaking, XM) Hype man at the temple, similar to the Prompter. Can be played by stagehand.
+Anne (Non-speaking, XF) Third incarnation of Princess Kimmie.
+Jane (Non-speaking, XF) Fourth incarnation of Princess Kimmie.
+Catherine (Non-speaking, XF) Fifth incarnation of Princess Kimmie.
+Ethel (Non-speaking, XF) Sixth incarnation of Princess Kimmie.
+Bridget (Non-speaking, XF) Seventh incarnation of Princess Kimmie.
+	Number of incarnations can be increased or reduced.
+ 
+Scene character list
+This list is provided to help keep track of who is needed in which scene. Names in brackets are characters who are present, with minimal roles.
+
+1.	APHRODITE REJUVENATE
+a.	Age, April, June, Youth, Beauty
+b.	Eva, Brock
+2.	A RELUCTANT STAR
+a.	Carly, Nieve, Rebecca, Cleo, Bertha, Donna 
+b.	Carly, Nieve, Cleo, Bertha, Donna, Eva, Jessica, Abigail 
+3.	IT BEGINS
+Carly, Angel, Carmen, Misty, Petal, Yvette, Flora, Janice, Brady, Nicky, Rebecca 
+4.	ANOTHER WORLD
+Carly, Eva, (Fairytale)
+5.	THE QUEEN
+a.	Mannequin, Queen, Handmaiden, Doctor
+b.	Mannequin, Queen, King, Handmaiden, Doctor 
+6.	THE TWO PRINCESSES 
+a.	Mannequin, Queen, Kimmie, Callie, Handmaiden, Governess 
+b.	Mannequin, Queen, Kimmie, Callie, Handmaiden, Governess
+7.	LIGHTS, CAMERA, ACTION
+Carly, Angel, Carmen, Misty, Petal, Eva, Brock, Prompter 
+8.	APPRAISAL
+a.	Carly, Eva, Jessica, Abigail 
+b.	Carly, Eva, (Fairytale)
+9.	THE EMISSARIES
+Mannequin, King, Doctor, Caspar, Balthazar, Melchior
+10.	 THE STOWAWAYS
+Callie, Kimmie, (Mannequin)
+11.	THE VOYAGE
+Mannequin, Kimmie, Callie, Doctor, Captain
+12.	 THE TRIALS
+a.	Carly, Angel, Carmen, Misty, Petal, Eva, Directors, Assistants 
+b.	Carly, Angel, Carmen, Misty, Petal, Eva, Brock, Prompter 
+13.	BACKSTAGE 
+Carly, Angel, Carmen, Misty, Petal 
+14.	CONFESSIONS
+Carly, Angel 
+15.	THE FINAL ROUND 
+Carly, Angel, Eva, Brock, Prompter, 2 Dimensions, (Mannequin)
+16.	THE SHAMAN
+Mannequin, Kimmie, Callie, Shaman
+17.	THE EMPEROR
+Mannequin, Kimmie, Callie, Shaman, Emperor, Minister, Herald, Prompter
+18.	THE FOUNTAIN
+Mannequin, Kimmie, Callie, Shaman, Anne, Jane, Catherine, Ethel, Bridget 
+19.	THE FINAL RECKONING
+Carly, Angel, Eva, Brock, Prompter, (Mannequin)
+20.	I AM AGE
+Eva, Shaman, (Fairytale)
+21.	THE TRUE YOU!
+Carly, Angel, Brock, Prompter, 2 Dimensions, All 
+
+
+
+
+Scene 1a
+APRIL is sitting in front of a mirror, applying beauty cream. AGE enters behind her, wearing a black cowl, breathing heavily.
+AGE Hello, my old friend. Remember me?
+APRIL (turning) Who are you?
+AGE I’m your worst nightmare. I am Age.
+APRIL (Brandishing cream) Get back! I have this beauty cream!
+AGE (Laughing evilly) I have toppled kings and pharaohs, mountains and civilizations! You think a mere beauty cream can stop the likes of me?
+APRIL Noooo!
+AGE descends on APRIL, covering her with its black cloak. When APRIL emerges, her face is covered in wrinkles.
+APRIL (Looking in mirror) I’m a monster!
+AGE laughs evilly. MAY jumps in.
+MAY Not so fast, Age.
+AGE What? Who goes there?
+MAY My name is not important. All that matters is that I have this. (Holds out Aphrodite cream.)
+AGE You fool! Weren’t you listening just now? No beauty cream can stop me!
+MAY This isn’t just any beauty cream. This is Aphrodite Rejuvenate, containing a secret combination of age-fighting compounds. 
+YOUTH and BEAUTY enter with a war cry.
+YOUTH Aphrodite Rejuvenate targets the six main signs of age: Wrinkles, 
+BEAUTY Dryness, 
+YOUTH Cellulite, 
+BEAUTY Thin skin, 
+YOUTH Sagginess,
+BEAUTY And oldness, to take care of age once and for all.
+For each weapon listed, YOUTH and BEAUTY block an attack from AGE and retaliate, pinning AGE to the ground at the end.
+MAY With Aphrodite Rejuvenate on your side, you can say goodbye to Age forever.
+YOUTH and BEAUTY begin to drag the struggling AGE off.
+MAY (holding out beauty cream) Aphrodite. It stops age! 
+AGE (sinister) Before age stops you.
+APRIL (speaking very fast) Side effects may include heart palpitations, night terrors, and eternal life. Aphrodite is not recommended if you’re pregnant or breastfeeding. Batteries not included. 
+Blackout.
+
+Scene 1b
+EVA and BROCK are standing in different areas of the stage.
+BROCK That’s all from our commercial sponsors. We’re about to return to the season premiere of Extreme Celebrity Makeovers Gone Wrong. But before we do, here’s a personal message from Eva Young.
+EVA Hi there! I’m Eva Young, CEO of the Young Foundation. I’d like to take a minute out of our usual scheduling to announce the launch of A New You, a makeover show with a difference. We’re going to take five ordinary teens and transform them into miniature stars. The winner of A New You will get a chance to host Teen Talk, the only talk show hosted by teens, for teens. If you think you have what it takes to become the next big thing, apply now!
+BROCK And now, we return to the season premiere of Extreme Celebrity Makeovers Gone Wrong, sponsored by the Young Foundation. Because beauty is a human right.
+
+Scene 2a
+A sitting room. CARLY and NIEVE are sitting, as if watching TV. CARLY turns it off. EVA and BROCK exit.
+CARLY This show stinks. I can’t believe you’d even dream of signing up.
+NIEVE Come on, I bet you’ve always dreamed of being on TV.
+CARLY Why would you think that?
+NIEVE Because EVERYONE’S always dreamed of being on TV, Carly! Just imagine it. You could be the host of your own talk show! You’d get to interview any celebrity you wanted!
+CARLY If I wanted to be famous, which I don’t, it wouldn’t be for selling beauty products.
+NIEVE Eva Young doesn’t sell beauty products.
+CARLY You know Aphrodite? That face cream that sponsors the show? According to my mum, the Young Foundation owns half that company. Not to mention all the salons, hairdressers, and surgeries that are all featured on her show.
+CARLY and NIEVE join a line behind CLEO, BERTHA, and DONNA, which slowly shuffles forwards. CLEO, BERTHA, and DONNA are whispering extremely excitedly to each other. REBECCA is standing in front of the door at the head of the line, listening to an earpiece and sending hopefuls in. 
+NIEVE But this show’s going to be different. It’s not about beauty. It’s about substance as well. Not to mention that Two Dimensions is supposed to be appearing in the season finale.
+CARLY Wait, what?
+DONNA joins the back of the line, hopping with excitement.
+NIEVE That’s right. The one and only Two Dimensions are stopping there before going on their world tour. Bet you want to try out now, huh?
+CARLY (Less sure) No. 2D are so overrated.
+CLEO I can’t believe I’m about to meet Eva Young!
+BERTHA I know! Isn’t she the third richest woman in the world?
+REBECCA Next!
+CLEO exits.
+CARLY I just want you to know that the only reason I’m here with you is because you’re my best friend in the whole world.
+NIEVE Keep telling yourself that, Carly. Don’t worry, when I become best friends with Two Dimensions, I’ll make sure to get their autographs for you.
+DONNA If I ever got the chance to actually meet Two Dimensions, I would literally die!
+REBECCA Next!
+BERTHA exits.
+NIEVE OMG! This is it! I’m next. I can’t do this, Carly. This was a bad idea. What was I thinking?
+CARLY (Same time) Good luck! Remember to stay calm in there. You’re going to be great!
+
+Scene 2b
+The audition stage. Line of hopefuls exits. EVA, JESSICA, and ABIGAIL enter and take seats watching the stage. CLEO and BERTHA are in the middle of a dreadful act.
+ABIGAIL Sugars, sugars, sugars, please stop right there before you hurt yourself. Next!
+CLEO and BERTHA exit sadly. NIEVE enters nervously.
+NIEVE Er…is this the right place?
+ABIGAIL Depends what you’re looking for, sugar.
+NIEVE I’m looking for…(with sudden burst of confidence) I’m looking for the chance to become the next big thing!
+JESSICA Honey, don’t tell us what you think we want to hear.
+ABIGAIL We’re looking for someone with a big voice and an even bigger personality. Someone who’s got strong opinions, and isn’t afraid to express them.
+JESSICA So tell us, honey, if there was one thing you could change about the world, what would it be?
+NIEVE (thinking) Erm, one thing I’d change, er, let me think…
+ABIGAIL Too slow, sugar. When you’re hosting a talk show, you don’t get thinking time. Next!
+NIEVE looks crestfallen and exits. DONNA enters with a flourish.
+DONNA Hi there! Let me just say that I’m a big fan of yours, Eva, and – 
+JESSICA Sorry honey, everything about you is screaming “no” to me right now.
+ABIGAIL Next!
+DONNA looks crestfallen and exits. CARLY enters, pushing a reluctant NIEVE in front of her.
+JESSICA Hang on a second, honey, didn’t we just see you?
+NIEVE I can explain – 
+CARLY Yeah, you did, but you must have not been paying attention. This girl’s the best thing ever to come your way. If you don’t take her, you’ll be making the worst mistake of your life.
+JESSICA Excuse us?
+CARLY She’s a little shy at first, but don’t let that stop you.
+ABIGAIL Sugars, we really don’t have time for this. We’ve got a lot of teens to see today. Next!
+EVA Wait.
+ABIGAIL and JESSICA turn in surprise.
+EVA What’s your name, sweetie
+Pause. CARLY nudges NIEVE.
+NIEVE Er, it’s Nieve.
+EVA Not you. You already had your chance, remember? No, I’m talking to the cheerleader that you brought with you. What’s your name?
+CARLY (taken aback) Me? Carly. Carly Plunkett.
+EVA Carly Plunkett! A little clunky, but we can work with that. I’m Eva Young. How would you like to become the new me?
+CARLY The new you? I couldn’t think of anything worse.
+NIEVE starts to get more and more mortified.
+EVA (slowly) I take it you’re not a fan of mine, then?
+CARLY Nope. Sorry. I’m just here to support my best friend, who, just so you know, is too good for your stupid show anyway.
+EVA That’s certainly something I haven’t heard before. If you don’t mind my asking, why don’t you like the Young Foundation?
+CARLY Because the whole thing’s fake. The only reason you sponsor all those youth charities is so that you can sell beauty products to teenagers.
+EVA Is that so? And if you were in charge of the Young Foundation, what would you do differently?
+CARLY Well, for one thing, I’d tell all the kids who watch your show that beauty isn’t everything. And I’d talk about issues that I cared about, not ones that made me money. And I’d – 
+EVA (holding up hand) OK, sweetie, I think I’ve heard enough. You don’t like my show? Great. You don’t like me? Even better. You’re the first person who’s ever told me that, and I love it. You say you want to make a difference? Well, I’m giving you a chance to make a difference. You walk away from this, and the only fake in this room will be you. 
+Pause. CARLY is torn.
+NIEVE Don’t do this for yourself, Carly. Do this for Two Dimensions.
+CARLY Fine. I’ll do it.
+EVA Sweetie, I just know this is the start of something big.
+Blackout.
+
+Scene 3
+A beauty salon. CARMEN, MISTY, and PETAL are sitting in chairs. CARMEN is attended by YVETTE and NICKY; MISTY is attended by FLORA and JANICE; PETAL is attended by BRADY. REBECCA is managing the group. There are two empty chairs.
+PETAL So then I said, “I don’t care how much you pay me, I’m not working with Taylor again. Either he goes or I go.” So of course he was replaced the next week…
+MISTY and CARMEN laugh.
+CARMEN That’s just so droll.
+FLORA (holding up a pot of earth) Darling, could you shut your eyes for a moment?
+MISTY (shutting eyes) Wait, what’s in the pot?
+FLORA This season, it’s all about earth tones. And where better to find earth tones than using real earth? (Applies earth to MISTY).
+PETAL Wow, that is the freshest thing I’ve seen all day.
+CARLY enters and stands awkwardly for a while, trying to talk.
+CARMEN (to YVETTE) Would you mind not blowdrying my hair to extinction?
+YVETTE I apologize, cherie. (Puts down blowdrier and begins blowing on CARMEN’S hair.)
+CARMEN What are you doing?
+YVETTE I am lung-drying your hair, cherie. This will allow the hairs to retain their natural moisture.
+CARLY Excuse me, I was sent down here…
+REBECCA There you are. This day is enough of a nightmare already without two of the contestants going missing. Take a seat right there. Darling, did you see Angel anywhere on your way in?
+CARLY Who?
+REBECCA I’ll take that as a no. OK, team, hands and face, stat. We’re on T minus thirty. I’m going to have to hunt down this kid myself.
+REBECCA exits. BRADY and JANICE move to start working on CARLY.
+CARLY Well, hi everyone, I guess.
+CARMEN, MISTY, and PETAL turn to look at CARLY.
+CARLY My name’s Carly Plunkett.
+CARMEN, MISTY, and PETAL turn to look at each other. Then PETAL turns back, brightly.
+PETAL Well, hey there, Carly! I’m so excited to meet you. My name’s Petal Monroe. And before you ask, yes: I’m the Petal Monroe, Miss Tween America 2016.
+NICKY I think it’s time to change the footbath.
+CARMEN What are you talking about? They’ve only had fifteen minutes. Are you seriously telling me that’s long enough for the nutrients to sink in?
+CARMEN takes one foot out and waves it around.
+PETAL I thought I knew you from somewhere! You were featured in Teen Vogue Summer Footwear Special 2015, right?
+CARMEN Yeah! I had the centrefold spread.
+PETAL I’d recognize those feet anywhere. You have the most gorgeous arches I’ve ever seen.
+CARMEN I know, right? Of course, being a foot model doesn’t come easy. My training regime is pretty intense.
+PETAL I know just how you feel. My personal trainer made me do ankle flexes for two hours a day to get me into shape for the Miss Tween America Doll Walk.
+MISTY I wish I could have feet like that. Mine are so big and ugly. But that’s the price I have to pay for the perfect pirouette. It’s not just any ballerina who’d get singled out for special praise by the New York Times. (Adopts ballet pose; to CARLY.) Do you know what I mean? Oh, silly me! Of course you don’t. I’m Misty River, by the way. 
+CARLY Carly Plunkett.
+MISTY (To CARLY) So what do you do?
+CARLY Um, nothing really.
+MISTY What do you mean, nothing? You’ve got to do something.
+CARLY I…go to school. I do my homework. I practice the piano sometimes.
+Pause. ALL stare at CARLY.
+JANICE Sugar, you’ll make my job a lot easier if you keep your mouth shut. I’ve only got half an hour to get you looking presentable. 
+CARLY Sorry.
+JANICE It’s lucky for you I’m such an artist.
+REBECCA enters with ANGEL, on the phone.
+ANGEL (on the phone) Mommy, you’re not my agent any more, and you can’t tell me what to do. Got that? (Hangs up.)
+REBECCA sits ANGEL down on a chair. YVETTE, FLORA, JANICE, and NICKY rush to work on ANGEL, who looks bored and tries to brush them away. CARMEN, MISTY, and PETAL cluster together.
+CARLY I swear I’ve seen her before.
+CARMEN Of course you’ve seen her before! That’s Angel Loveday. 
+MISTY Isn’t she meant to be the richest twelve-year-old in the world?
+PETAL Wouldn’t surprise me. Just think of all the films she’s been in. 
+MISTY Blood Sisters…
+PETAL The Littlest Unicorn…
+CARMEN Tetris: The Movie…
+PETAL, CARMEN, and MISTY sigh adoringly.
+BRADY OK, the base layer is complete. What do you think?
+CARLY I look exactly the same.
+BRADY Nonsense! Your cuticles look ten years younger!
+CARLY I’m twelve.
+BRADY Don’t worry, another twenty minutes and I’ll get those last two years off.
+CARLY I’m good, thanks. In fact, I think I’m good to go on just as I am. I need a break.
+CARLY exits running.
+REBECCA Where do you think you’re going? We’re going live in twenty minutes! (Into earpiece) Eva, I’ve got another runner.
+Blackout.
+
+Scene 4
+A museum-like personal collection of mysterious artefacts and PORTRAITS, including MANNEQUIN, holding a book in outstretched hands, portrait of QUEEN and HANDMAIDEN, and every other character from the fairytale group. EVA is standing inconspicuously. CARLY enters running, and looks around in wonder.
+EVA What’s the matter? Are you already done with your make-up?
+CARLY does a double-take, but puts on a surly face again.
+CARLY Let’s just say I got bored.
+EVA Those studio lights can be very unforgiving, sweetie. You’ve got to be confident to walk out in them without putting your face on first.
+CARLY You can call it confidence if you like. I just couldn’t sit in that chair for a second longer.
+EVA laughs affectionately.
+CARLY Miss Young?
+EVA Please! Call me Eva. Sheesh, you make me sound like your mum or something.
+CARLY Eva, why did you pick me? The others are all naturals at all this showbiz stuff. But I’m not cut out to become a star.
+EVA Sweetie, nobody is born a star. They become a star, by learning how to shine. It’s easier than it looks, you know. You may not have the attitude yet, but you have something much more important.
+CARLY What’s that?
+EVA Spirit! You have more spirit than all the others put together. As long as you keep your spirit, you can shine just as brightly as the rest. You may find this hard to believe, but I get nervous before shows too. No, really, it’s true. That’s why I like to come here first.
+CARLY What is this place?
+EVA It’s a little collection that I like to build on the side. I’m a keen archaeologist, you know.
+CARLY This is all real?
+EVA As real as you or me.
+CARLY (Pointing at QUEEN and HANDMAIDEN) Who’s that?
+EVA I’m afraid I don’t know any details. From the looks of her, I’ve always assumed she must be royalty. But the inscription’s worn off.
+CARLY (pointing at MANNEQUIN) What about that?
+EVA That’s a sixteenth-century mannequin. (puppeting MANNEQUIN) Pretty creepy, aren’t I? I’m over 500 years old, and still so lifelike. I could have come from a royal palace, maybe the one that Queen ruled over! (stops puppeting) I find...I’ve never told anyone this before, so please don’t laugh, OK?
+CARLY OK.
+EVA Promise?
+CARLY Promise.
+EVA When I was your age, I used to love writing stories. Fantastic stories, full of princesses and magic and adventure. (Sighs and rests hand on MANNEQUIN’s book.) But we shouldn’t really be here. My team are probably wondering where we are. We shouldn’t keep them waiting any longer.
+EVA exits. CARLY takes the book from MANNEQUIN and reads with increasing wonderment. She can remain onstage and reading throughout Scenes 5 and 6, or she can exit with transition.
+
+
+
+Scene 5a
+Transition to Royal Court, while all PORTRAITS but QUEEN, HANDMAIDEN, and MANNEQUIN exit. QUEEN and HANDMAIDEN remain in frozen positions. MANNEQUIN unfreezes.
+MANNEQUIN The Queen was the most beautiful woman in the land. A fact that she pointed out whenever she got the chance.
+MANNEQUIN freezes. HANDMAIDEN and QUEEN unfreeze. HANDMAIDEN tends to the QUEEN.
+QUEEN I’m the most beautiful woman in the land! I can’t possibly leave my private quarters looking like this. You must send for the doctor at once.
+HANDMAIDEN As you will, m’lady. (Crosses to exit; shouting) Doctor!
+DOCTOR enters. HANDMAIDEN goes back to tending to the QUEEN.
+DOCTOR You called, m’lady?
+QUEEN Come here at once!
+DOCTOR (Slightly weary) What is it this time?
+QUEEN I fear it may be a matter of life or death. Just take a look at my face. What do you see?
+DOCTOR The…the most beautiful woman in the land, m’lady?
+QUEEN Silence! I didn’t send for you just so you could flatter me. That’s what I pay my Royal Flatterers for. Just look at my skin! My porcelain clear skin is coming out in nasty blotches. I can’t possibly leave my quarters looking like this.
+DOCTOR I see. Have you experienced any other symptoms?
+QUEEN Yes! I come over quite nauseous every day, like clockwork. And the tiredness is more than I can stand! Some days I can barely leave my bed chambers.
+HANDMAIDEN (to herself) You’ll be coming over in hot flushes next, I shouldn’t wonder.
+QUEEN What was that, Handmaiden?
+HANDMAIDEN Oh, nothing, nothing at all, m’lady.
+DOCTOR How long has this been going on for? 
+QUEEN Oh, about three weeks. Have I been poisoned? If one of my chefs has given me some bad meat…
+DOCTOR Don’t worry, m’lady, that seems unlikely. But this symptoms are certainly unlike any disease I’m familiar with. I will have to consult my textbooks and some other learned men.
+DOCTOR turns to leave.
+HANDMAIDEN If you please, sir, there may be a simple explanation for this. M’lady might be pregnant.
+QUEEN takes a deep breath. ALL but MANNEQUIN freeze.
+MANNEQUIN It was said that the scream which issued from the Queen’s mouth was heard everywhere, from Darjeeling to Djibouti.
+ALL unfreeze.
+QUEEN Get out, you impudent wretch! Get out of my sight!
+HANDMAIDEN exits.
+DOCTOR (hesitantly) Although there are other considerations to think about, your handmaiden may have made a good suggestion.
+QUEEN (aghast) Pregnant? Me? I can’t possibly get pregnant. Haven’t you seen what pregnancy does to a woman’s figure? Oh, it can’t be, please tell me I have the plague or something instead.
+QUEEN collapses into a chair moved behind her at the last minute by the DOCTOR.
+DOCTOR Perhaps this is a blessing in disguise. After all, the King must want an heir, and you’re not getting any younger.
+QUEEN (deathly quiet) What did you just say?
+DOCTOR (terrified) Who, me? Oh, nothing, m’lady, nothing at all. Only that a baby is a divine gift to receive. 
+
+Scene 5b
+KING enters.
+KING Indeed it is! I’ve long waited for this miraculous day to come. Don’t worry, darling, I’ll see to it that your every whim is taken care of during the next nine months. You won’t have to lift a finger! 
+MANNEQUIN It didn’t take long for the Queen’s condition to become obvious to all who had the pleasure of looking at her. Soon, it was clear that there was more to her pregnancy than met the eye.
+The QUEEN’s bump grows, with the QUEEN looking on, horrified. The DOCTOR moves to inspect the bump.
+DOCTOR (nervously) In my expert opinion, a bump this size normally means, ah…
+KING Oh, just cut to the chase! Honeybear, you’re having twins!
+ALL but MANNEQUIN freeze.
+MANNEQUIN When the King first laid eyes on his two baby daughters, he was instantly smitten. The Queen, less so. She locked herself in her tower and immediately got to work restoring her former youthful looks, doing her best to pretend that the whole horrifying ordeal had never happened. It was only at their eighth year that the twin princesses were allowed to visit their mother for the first time.
+As MANNEQUIN speaks, KING, QUEEN, KING, and DOCTOR exit. KING enters, dances across the stage happily, holding two babies, and exits. QUEEN enters without bump, followed by HANDMAIDEN. HANDMAIDEN tends to QUEEN.
+
+Scene 6a
+GOVERNESS enters.
+GOVERNESS M’lady, may I present to you...your daughters. Her Royal Highnesses, the Princesses Callie and Kimmie.
+CALLIE and KIMMIE enter. KIMMIE is wearing a hood. 
+QUEEN Come in, come in! No need to be shy in front of your own mother! 
+CALLIE and KIMMIE curtsey shyly.
+QUEEN You see, Handmaiden? I knew if I waited for them to grow up a little they would turn out perfectly nice to look at in the end. Tell me, children, has your governess been good to you?
+CALLIE Yes, m’lady.
+QUEEN Please! Call me Mother.
+CALLIE Yes…Mother.
+QUEEN Come closer. I can barely see you from here. And take off that hood.
+KIMMIE approaches QUEEN and removes hood to reveal an unnaturally aged face.
+QUEEN What’s the matter with you?
+CALLIE Nothing’s the matter with her, Mother. She was just born differently.
+QUEEN Can’t you even speak for yourself?
+KIMMIE Yes, Mother. I can speak very well.
+GOVERNESS M’lady, Princess Kimmie isn’t like most girls. 
+ALL but MANNEQUIN freeze.
+MANNEQUIN Some said that the Queen had been cursed for her vanity. Some said she had made a deal with the devil to trade her youth for her daughter’s. But whatever the reason, there was something unusual about Princess Kimmie. For every year that Princess Callie grew, Princess Kimmie appeared to grow five. Already, at the age of eight, she had the face of a much older woman. And no doctor in the country doubted that, unless a cure for her ageing could be found, Princess Kimmie would die before her fifteenth birthday.
+ALL unfreeze.
+QUEEN It’s impossible that someone as beautiful as me could have produced a creature as grotesque as you. There must have been a mistake. (To GOVERNESS) Take her away!
+
+Scene 6b
+KIMMIE acts out MANNEQUIN’s words and exits. QUEEN, GOVERNESS, HANDMAIDEN, and CALLIE act out MANNEQUIN’s words.
+MANNEQUIN Princess Kimmie was confined to one wing of the royal castle, never allowed to be seen by the outside world, for fear of bringing shame on the Royal Family. As far as the Queen was concerned, she had only one daughter. A daughter who she treated with all the motherly love and affection she could muster. 
+QUEEN (playing with MANNEQUIN) It’s not fair. My mannequin will never lose its perfect figure. My clothes look better on it than they do on me. (To HANDMAIDEN) I can feel it mocking me. Get it out of my sight.
+HANDMAIDEN drags MANNEQUIN away. Exits.
+QUEEN How is Princess Callie’s education going?
+GOVERNESS Excellently. M’lady. Callie has mastered Latin and Greek. Although I must admit, Princess Kimmie is progressing even faster. Her intellectual maturity – 
+QUEEN (coldly) Thank you, Governess, that will be all.
+GOVERNESS curtseys and exits.
+QUEEN Your governess has been filling your head with all kinds of nonsense. That was the King’s idea, not mine. I suggest you do your best to empty your head of all that excess knowledge as fast as possible.
+CALLIE Why’s that, Mother?
+QUEEN It builds up in the brain, you see, and it won’t be long before it starts leaking out all over your face. Just take a look at your governess and you’ll see what I mean. (clapping) Governess!
+GOVERNESS enters.
+QUEEN Governess, how old are you?
+GOVERNESS Twenty-seven, m’lady.
+QUEEN Twenty-seven, she says. But just look at what a lifetime of study has done to her complexion! (Fearfully; indicating GOVERNESS) Look at her pinched face, her furrowed brow, her squinting eyes! Do you want to end up looking old and haggard like your governess when you’re twenty-seven?
+CALLIE Er...no, Mother?
+QUEEN Then I suggest you take every piece of advice I have to offer you. (to GOVERNESS) Didn’t you have somewhere to be?
+GOVERNESS Thank you, m’lady.
+GOVERNESS curtseys and exits.
+QUEEN I suppose it falls to me to provide you with the only education you’ll ever really need.
+CALLIE What’s that? 
+QUEEN The art of beauty! Come closer so that I can examine your bone structure. (Examining CALLIE’s face closely) Yes, very promising indeed. You know, everybody in the royal court tried to dissuade me from having you. “You’ll destroy your youthful complexion!” they said. But I’m glad I ignored them. With the careful application of make-up and perfume, you’re going to grow up to be almost as beautiful as me.
+CALLIE How do you know?
+QUEEN Because you’re my daughter, and every good daughter takes after their mother in every way.
+Blackout.
+
+Scene 7
+Transition to modern day. A TV studio chatroom. An host’s chair and sofa. A sign reads A NEW YOU! BROCK and PROMPTER are in position. PROMPTER holds a sign saying SILENCE. Theme music plays.
+BROCK Ladies and gentlemen, welcome to the season premiere of A New You! Now please put your hands together for your host this evening: the ravenous Eva Young!
+PROMPTER switches from SILENCE to APPLAUSE. EVA enters, smiling and playing to audience with various flourishes. She graciously motions for the audience to stop applauding. When they do, she less graciously motions for them to carry on applauding, then switches to graciously waving it away. She sits in the host’s chair. PROMPTER switches to SILENCE.
+EVA Good evening, America. You join me in my living room on a very special night, for tonight, the search is finally over! For the last few months, I’ve been travelling up and down our fair land, searching for the special somebody to become the face of Teen Talk! I must have seen thousands of hopeful young girls, but only five were selected to join me in my residence for what will surely be the experience of a lifetime. So, ladies and gentlemen, let me introduce the bright young stars of tomorrow! Carmen de Wit!
+PROMPTER switches to APPLAUSE. CARMEN enters and strikes a few catwalk poses and sits on the sofa.
+EVA Angel Loveday!
+ANGEL enters haughtily and sis on the sofa.
+EVA Misty River!
+MISTY enters with a pirouette and sits on the sofa.
+EVA Petal Monroe!
+PETAL enters with lots of enthusiastic waving, eyelash-batting, blowing kisses, etc. and sits on the sofa.
+EVA And finally…Carly Plunkett!
+PROMPTER switches to SILENCE. Pause. CARLY appears awkwardly at the door, as if pushed on by someone backstage. She uncomfortably walks across the stage to join the others.
+EVA Over the next three weeks, these five children will be living, eating, and breathing right here in my house. Tell me, Petal, how have you been settling in?
+PETAL Well, I just have to say this is the most charming house I’ve ever laid eyes on! The bathtub in my ensuite is the size of a swimming pool. And the swimming pool is the size of a bathtub! The camera crew are simply the most charming I’ve ever had the pleasure of working with.
+EVA (laughing) Well, I don’t normally live with a camera crew in the house, but for the next three weeks, they’ll be sharing the space as well and capturing all the special moments that we’re sure to have together. But it can’t be easy making the change. Misty, what’s the thing you’re missing most about home?
+MISTY My pet swan, Tchaikovsky. He’s been my inspiration, my greatest ballet teacher, and my closest friend. I did my best to explain to him why I had to go for so long, but I’m so worried that he thinks I’ve abandoned him.
+EVA What a beautiful relationship you must have with him. Carmen, what drew you to be with us tonight?
+CARMEN You, of course! You’ve inspired me all the way through my modelling career, to be the best I can be. It’s a privilege enough to finally be able to meet you in person, but to become the next Eva Young is my greatest dream of all.
+EVA Stop it, Carmen, you’re making me blush! (to audience) This one can stay. Angel, were you also a fan of A New You before you joined the show?
+ANGEL I’m afraid I never had a chance to watch it. Maybe I would have done, except my Mom told me never to watch mindless trash. (Smiles) 
+EVA (nervously) Right! But I’m guessing you’re all excited now that you have the chance to present your very own talk show. But it’s not going to be easy! These five contestants will have to prove to me that they have what it takes to host their own show, or risk getting voted off! Carly, are you feeling nervous about the weeks ahead?
+CARLY Nervous? Who wouldn’t be?
+EVA OK, that’s all the question time we have tonight. As you can see, the contestants’ transformation from regular teenagers into young starlets has already begun. But only one of them is destined to become the host of Teen Talk, the brand-new show from my studio. Remember: it’s your votes that will make the difference. But for now, it’s goodbye from us!
+PETAL, CARMEN, MISTY, ANGEL, CARLY Goodbye!
+ALL smile and wave rigidly at audience. Theme music plays.
+BROCK A New You is brought to you by the Young Foundation. Because you can’t put a price on perfection.
+Blackout.
+
+Scene 8
+A consultation room. JESSICA and ABIGAIL are sitting opposite CARLY. EVA is watching.
+ABIGAIL First of all, we want to say: great start. Over the last week, you’ve made a strong first impression. Right, Jessica?
+JESSICA Right. We were very impressed. Perhaps even a little surprised. We didn’t think you had it in you.
+ABIGAIL Audience approval ratings are looking solid.
+JESSICA You’re playing the underdog card very well.
+ABIGAIL But we have to say, we’re a little worried about your personality.
+JESSICA Well, it’s not just your personality. It’s also your face. Wouldn’t you agree, Abigail?
+ABIGAIL Let’s just say it’s a bit of both. At the moment, you’re coming across as a bit meh. You know what I mean?
+CARLY Not exactly.
+ABIGAIL I mean, you’re just a bit (makes flat raspberry noise). 
+JESSICA A bit (makes disappointed sighing noise)
+ABIGAIL You’re a whole lot of nothing, is the bottom line. 
+JESSICA Which is fine for now, but people are going to get bored. They’re going to start forgetting who you are.
+ABIGAIL Remember, you’re up against a group of established personalities. You’re going to have to work extra hard to make an impression.
+JESSICA As for the whole face situation…we’re not saying there’s anything wrong with it. We’re not saying it’s not pretty. It’s just not…
+ABIGAIL Hollywood Pretty.
+JESSICA Exactly. It’s not Hollywood Pretty.
+ABIGAIL So we ought to think about getting you up to…well, maybe not Hollywood Pretty, that’s a little ambitious for you, sugar, but at least Hollywood Plain.
+JESSICA And then we’ll think about getting you to Hollywood Pretty a little further down the line, if you’re still around.
+ABIGAIL Don’t worry, it’s not as hard as it sounds. We have a dedicated team of in-house cosmetic surgeons who really know how to turn lead into gold, if you know what I mean.
+JESSICA Don’t worry, honey, you won’t feel a thing.
+ABIGAIL It’ll be over before you know it.
+JESSICA They’re professionals.
+CARLY Oh, you don’t have to do that for me.
+ABIGAIL It wouldn’t be for you. It would be for the greater good. You know, all those poor people who have to look at you.
+JESSICA Honey, right now you look like a BEFORE. You know what I’m sayin’? We need to get you looking like an AFTER, and quickly.
+ABIGAIL It would be a crime against humanity to let you leave this building without at least a nose job or something.
+CARLY So you can turn me into another one of them, is that it?
+JESSICA Sorry, honey?
+CARLY You want to turn me into another Petal Monroe, or another Angel Loveday, is that it? Don’t you have enough of them in this show already?
+ABIGAIL Sugar, I think you’ve got the wrong end of the stick.
+CARLY Wait, I get it. You want us all to be the next Eva Young, don’t you? Because I’m not here to be the next Eva Young. I’m here to be the first Carly Plunkett. (to EVA) I thought you got that, Eva.
+EVA Sure, I got it.
+CARLY Then why are we talking about this?
+Pause.
+EVA Perhaps we should take a walk.
+EVA gets up and starts walking. CARLY, JESSICA, and ABIGAIL follow her. 
+EVA Carly, I want to tell you something I’ve never told anyone else before. The truth is…I’m getting old.
+JESSICA and ABIGAIL gasp. JESSICA faints.
+EVA I know it’s hard to believe. I mean, look at me. I don’t look a day older than my official age, which is 27. But the truth is…I’m actually 42.
+ABIGAIL gasps and faints.
+
+Scene 8b 
+EVA and CARLY walk to the collection room. PORTRAITS and other artefacts fill the stage around them, including MANNEQUIN, portrait of QUEEN and HANDMAIDEN, portrait of the KING, BALTHAZAR, and CASPAR, and portrait of KIMMIE and CALLIE.
+EVA I can’t do this forever. One day…one day I’ll have to say goodbye to A New You, and leave it in the hands of someone I can trust. Do you see what I’m getting at?
+CARLY Um, I’m not sure…
+EVA This isn’t just about Teen Talk anymore. This is about the future of the Young Foundation. I need to find the next Eva Young.
+CARLY You can’t possibly mean me.
+EVA Out of all of the competitors, you’re the only one that’s stayed true to yourself. But I’m worried that the public won’t realize that, when they get a chance to vote. That’s why I’ve decided to adjust the rules a little. There’ll be a panel of judges who selects one contestant to go into the final. The other will be selected by the public vote. That way, I can be sure you’ll make it through.
+CARLY You shouldn’t do that. That’s cheating.
+EVA How can I cheat at a game where I make up the rules? I have a lot at stake here, Carly. My career, my business, my whole life is on the line. I can’t risk anyone but you winning this competition. But you can’t tell anyone about this.
+Pause. CARLY looks uncomfortable and moves away to look at PORTRAITS.
+CARLY The other day, when I was in this room, I was reading a book from that shelf and it reminded me of that painting. (Points at portrait of QUEEN and HANDMAIDEN) The queen in the story reminded me of her. (Points at portrait of CALLIE and KIMMIE) And the two girls in that picture were her daughters, twins, but different in every way. And…well, there was more, but I didn’t have time to finish the story. Wait – what’s the matter?
+EVA has started to look emotional during the above.
+EVA You’re right. Those paintings are of the characters in that story.
+CARLY How do you know?
+EVA Because I wrote that story myself!
+CARLY looks surprised.
+EVA Let me guess. Surprised that an airhead like me could ever write a fairytale like that? Well, when I was your age, I used to come up with stories like that all the time.
+CARLY How long ago was that?
+EVA laughs forcibly loud.
+EVA Let’s not change the subject. All I meant to say was, I used to be just like you. Then somewhere along the way, I forgot how to be myself.
+Pause.
+EVA Carly, can you promise me something?
+CARLY Sure. 
+EVA Don’t ever forget who you are.
+CARLY I won’t.
+EVA, JESSICA, and ABIGAIL exit. CARLY takes book from MANNEQUIN and starts to read; again, she can either remain onstage reading or exit during Scenes 9 - 11. 
+
+Scene 9
+Transition to the Royal Court. KING, BALTHAZAR, and CASPAR are frozen in position. KIMMIE acts out MANNEQUIN’s words.
+MANNEQUIN Princess Kimmie’s days would have been long and empty were it not for the castle library, which, like all the other useless things in the Royal Court, had been placed in Kimmie’s wing of the castle. By her twelfth summer, age had turned her into a crooked old hag, and none doubted that she would soon die. But still, the King didn’t give up hope that a cure might be found.
+ALL unfreeze. CALLIE leans over to listen to KING.
+KING What news from abroad?
+BALTHAZAR (Dramatically) I bring tidings from Sultan Ishmael the First, my lord. He gifts you with these rare and precious spices. Rub them on your daughter’s scalp at the first break of dawn, when Venus is in the House of Aquarius, and her ageing will be reversed.
+CASPAR (Dramatically) The Mighty Khan prays for your health, my lord. He has asked me to present you with these minerals. The princess must grind them into a fine paste while chanting Happy Birthday backwards for three days, then on the fourth she will wake up born anew. 
+MELCHIOR bursts in, out of breath.
+MELCHIOR My lord! Don’t listen to these charlatans. These past six years, I have journeyed far and wide, across the great ocean to the west, and I have found the cure you’re looking for. In the land across the ocean, there is said to be a mighty emperor who has ruled over his people for thousands of years, without ever growing old or dying. If we could learn the secret of his everlasting life, we could surely use it to save your daughter!
+KING That’s all I need to hear. Fit out my personal ship, and find a crew willing to sail it. We will find this Emperor.
+DOCTOR What? You can’t possibly mean that you’re going to hunt for this cure yourself?
+KING Heavens, no! What if I met some horrible fate out there? This country needs its King. No, Doctor, you’re going to lead the hunt.
+DOCTOR is speechless.
+KING I need someone I can trust to lead this mission, and bring it home safely. You’ve been my most trusted right-hand-man for many years now. I can think of no-one better to accept this honour.
+DOCTOR I’m a doctor, not an adventurer!
+KING I knew you’d understand.
+KING and DOCTOR exit. 
+
+Scene 10
+CALLIE crosses to KIMMIE.
+MANNEQUIN Preparations to depart were soon underway. It didn’t take long for Callie to deliver the good news.
+CALLIE Father thinks he’s found the cure, Kimmie! He’s preparing an expedition to sail across the ocean to the west.
+KIMMIE It must be going to the Americas, then. I read somewhere that the water in the Americas makes you age backwards. But I read somewhere else that the mountains there are made of silver and the cities are made of gold, so I wouldn’t get too excited.
+CALLIE You know, Kimmie, sometimes I’m so jealous of the stuff you know. Do you really learn all of this from reading books?
+KIMMIE (shrugging) Sure. But what else am I supposed to do up here all day? I don’t need to waste time learning the harpsichord or dancing with princes.
+CALLIE Believe me, you’re not missing much. I spend all day playing the part of the perfect princess while strangers gawp at me. All I want to do is escape from it all. Lock myself away in a tower and never come out again.
+KIMMIE At least people listen to you. The only person who listens to me as that stupid mannequin. (Points at MANNEQUIN.)
+CALLIE But it won’t be for much longer. Just you wait, Kimmie. I just know that this time is the one. I can feel it.
+KIMMIE (puppeting MANNEQUIN) I wouldn’t be so sure. If there were a way to persuade our father to call it off, I would.
+CALLIE You may have given up on yourself, but I haven’t. I’m going to find that cure and bring it right back to you.
+KIMMIE (puppeting MANNEQUIN) You? What do you mean?
+CALLIE I’ll stow away on our father’s ship. I’ll find the Emperor. And I’ll bring back the cure.
+KIMMIE Don’t be ridiculous. Why should you put your life in danger for mine?
+CALLIE Believe me, it’s not much of a life. I’ve been hoping for a chance to escape for a long time now. If I do this, we can both be free.
+CALLIE starts to leave.
+KIMMIE Fine. But we’re going together.
+CALLIE What? No way. Look at you, Kimmie. You’re too fragile to travel in your condition.
+KIMMIE The way things are going, I won’t survive to see you come back anyway. If I have any hope of being cured in time, it’s by finding the cure myself.
+Blackout.
+
+Scene 11
+The royal ship. The DOCTOR is staring out to sea.
+MANNEQUIN The scene of the royal ship’s departure was one of the liveliest in the kingdom’s history. Everyone was so busy that nobody noticed the absence of the twin princesses, Callie and Kimmie. In fact, by the time the King and Queen realized what had happened, the royal ship was too far away to be caught by even the speediest vessels in the King’s fleet. 
+The CAPTAIN enters, ushering CALLIE and KIMMIE in front of them.
+CAPTAIN Sir, look what I found skulking below decks as I was cleaning out the brigs!
+DOCTOR Her royal majesties, on board the ship! The King and Queen must be worried sick about you. We’ll have to turn around without delay.
+CAPTAIN It’s too late to turn around now, sir. Our supplies won’t last the return journey. Especially with two extra mouths to feed.
+DOCTOR (sighing) Then we have no choice but to continue. Get them installed in the royal quarters.
+CAPTAIN We may have more important things to worry about than the princesses’ comfort. It looks like there’s a stormfront moving in fast.
+DOCTOR Where? I can’t see anything.
+CAPTAIN Right above us. Those look like lightning clouds to m – 
+Lightning strikes. CAPTAIN and DOCTOR dive apart.
+CAPTAIN Storm! Bring the sails in!
+DOCTOR and CAPTAIN scramble across the stage. There is a crash, and ALL are flung sideways.
+DOCTOR Princesses! Get below decks, now! It’s not safe up here!
+The DOCTOR makes his way towards CALLIE and KIMMIE. Just before he reaches them, there is another crash, and ALL are flung sideways.
+CAPTAIN The mast’s been hit! We can’t do anything now but wait the storm out.
+KIMMIE stares out to sea.
+KIMMIE What’s that?
+CALLIE What?
+KIMMIE There. There’s a light out to sea.
+CALLIE It’s probably lightning. Quickly, Kimmie, we’ve got to get inside.
+CALLIE reaches KIMMIE and tries to pull her away. There is another crash, ALL are flung sideways, and CALLIE and KIMMIE fall overboard.
+DOCTOR Princesses!
+DOCTOR runs to the edge of the ship, and is pulled away by CAPTAIN.
+Blackout.
+
+Scene 12a
+Transition to modern day. A TV studio full of challenges. EVA, CARLY, PETAL, ANGEL, CARMEN, and MISTY enter and perform a series of reality TV-style challenges while montage music plays in the background. Each event is governed by a different CHALLENGE PRESENTER and CHALLENGE ASSISTANTS, who brings on the necessary props and leads the contestants through the challenge. Signs announcing each event appear in the background as they take place. Events might include:
+EXTREME ACCESSORISATION. Each contestant has an outfit thrown on them and must rapidly put on as many matching accessories as possible, stealing the best ones off each other.
+BLINDFOLDED MAKEOVER. Each contestant is blindfolded and covers their face arbitrarily in makeup.
+EGO WRESTLING. Each contestant gets a padded two-handed staff and tries to knock each other down.
+URBAN JUNGLE SURVIVAL. Contestants camp outside a shop and forage snack food from street vendors.
+ANGEL sulkily and effortlessly does the best in each activity. PETAL overenthusiastically muddles through. CARMEN flounces through everything smugly, deeply embarrassed when she messes up. MISTY drifts airily through each challenge, not really understanding anything. CARLY wearily and halfheartedly attempts each challenge, ultimately doesn’t get very far in them, but at least doesn’t look quite as bad as the others by the end.
+
+Scene 12b
+The chatroom. BROCK and PROMPTER take their positions. EVA is sitting in the host’s chair. CARLY, PETAL, ANGEL, CARMEN, and MISTY arrange themselves on the sofa, still the worse for wear after the challenges.
+EVA It’s certainly been a wild ride, hasn’t it, folks? It seems just yesterday that these five young hopefuls were knocking on my door for the first time. But the grand finale is nearly here, and only two contestants can make it through. One of those contestants is chosen by our panel of expert judges. That contestant is (opens envelope) Angel Loveday!
+ANGEL exits emotionlessly. CARLY, CARMEN, PETAL, and MISTY look shocked.
+EVA That leaves four competitors, only one of whom will see the final. It’s up to you, our live studio audience, to decide which of them it should be. So if you want to see Carmen de Wit stay on, cheer now!
+CARMEN stands up nervously and encourages audience to cheer. PROMPTER holds up a CHEER sign. EVA waits for audience cheering to subside.
+EVA If, on the other hand, you want to see Misty River in our final, cheer now!
+MISTY stands up and strikes some poses. PROMPTER holds up a CHEER sign. EVA waits for audience cheering to subside.
+EVA If it’s Petal Monroe you’d rather let continue, cheer now!
+PETAL stands up and frantically waves and smiles to the audience. PROMPTER holds up a CHEER sign. EVA waits for audience cheering to subside.
+EVA And finally, if it’s Carly Plunkett you hope will return, cheer now!
+CARLY stands up. PROMPTER holds up a CHEER sign. EVA waits for audience cheering to subside.
+EVA The audience’s vote is in…and it looks like Carly Plunkett is staying!
+PROMPTER holds up a CHEER sign. CARLY exits, surprised and happy. PETAL, MISTY, and CARMEN look crushed.
+EVA That’s all we have time for this week, but be sure to return for the gripping final episode. For now, it’s goodbye from us!
+PETAL, CARMEN, MISTY (mournfully) Goodbye!
+ALL smile and wave rigidly at audience. PETAL, CARMEN, and MISTY look as if they’re about to cry. Theme music plays.
+Blackout.
+
+Scene 13
+A dressing room, after the show. PETAL, MISTY, and CARMEN look miserable. ANGEL and CARLY are sitting to one side. ANGEL looks surly, and CARLY looks confused.
+PETAL Let me be the first to say that, despite the unexpected result, these last three weeks have been simply cray-cray. I may not have won the show, but I’d like to think I’ve won some very special friendships instead. Carly, I just love your…confidence. And Misty, your stories of Russian ballet school are just so memorable. Carmen, your beauty tips – 
+ANGEL Are you going to be much longer? Because some of us are trying to think over here.
+PETAL (giggling) Do please let me finish, Angel. I just wanted to say how much I love your beauty tips, Carmen, and Angel, the way you, er, you know, you’re just so, er, well gosh darn it, Angel, I don’t even know where to begin with you! I love each and every one of you. You’re all so special to me, and I hope we stay this close for the rest of our lives. (to ANGEL) OK, Angel! I’m all done. You can go back to thinking now.
+ANGEL Great.
+CARMEN I just don’t understand why the judges picked you.
+PETAL Now, Carmen, we’re all feeling a little hurt by the judge’s decision.
+CARMEN But seriously, this doesn’t make sense. Eva told me she was going to put me through. She told me she wanted me to win.
+MISTY, CARMEN, PETAL (together) Gasp!
+MISTY Why would she tell you that?
+CARMEN What’s the matter? Upset that she didn’t tell you the same thing?
+MISTY But she did.
+MISTY, CARMEN, PETAL (together) Gasp!
+PETAL I don’t understand. I thought I was her special one. She called me her special Petal!
+MISTY, CARMEN, PETAL (together) Gasp!
+PETAL But why? Why would she lie to us?
+CARLY For TV. Everything we do gets recorded. (Gesturing to audience) The whole world is out there, watching us right now! She probably did this just so we’d get into a fight.
+MISTY You’re right, Carly. Let’s stop fighting. (raising hand to forehead) I can’t handle all this fighting.
+PETAL There must have been a mistake. Eva wouldn’t lie to us like that. I think we should come together for a group hug.
+PETAL tries to put her arms around everyone. CARMEN, MISTY, and CARLY come awkwardly together.
+PETAL Angel? Didn’t you hear me?
+ANGEL It’s pretty hard not to hear you, Petal.
+PETAL Then what are you waiting for? Group hug!
+ANGEL I would, but then I’d have to touch you. And as you’re about to leave, I was kind of hoping never to touch you again.
+PETAL You know what, Angel? I’m wondering just how you got your name, because you’re not an angel at all, you’re the world’s biggest – 
+Classical music plays as PETAL mimes yelling at ANGEL. Eventually, PETAL storms out. Music stops. PETAL enters again.
+PETAL Oh, yeah. And Misty? I think you’re a –
+Classical music resumes. PETAL yells at MISTY. MISTY yells back. PETAL yells at CARMEN. Soon, ALL are yelling at each other. 
+Fade out.
+
+Scene 14
+The collection room. ANGEL is sitting by herself. CARLY enters.
+ANGEL What are you doing here? Trying to get some alone time? Bad luck. I’m not moving.
+CARLY Well, neither am I.
+ANGEL Fine.
+CARLY Fine.
+Pause.
+ANGEL Have the others gone?
+CARLY Yep.
+ANGEL So it’s just you and me.
+Pause.
+CARLY Whatever happens in the final, I just want to say: good luck.
+ANGEL Thanks. You too, I suppose.
+CARLY Not that you’ll need it. I’m sure you’ll win. To be honest, I don’t know how I made it this far in the competition.
+ANGEL Don’t count on it. 
+CARLY What do you mean?
+ANGEL Isn’t it obvious? I’ve been doing everything I can to get myself kicked off this stupid show. I’ve done my best to act as stuck-up and spoilt as possible, so that the audience would vote me off. It would have worked if Eva hadn’t given me her free pass, for some reason. But tonight has to come down to an audience vote.
+CARLY I don’t get it. What are you doing here, if you don’t want to win?
+ANGEL I didn’t have a choice. My agent thought this would be a good career move, so here I am. I don’t get to decide what happens in my life anymore. 
+CARLY Then why did you become an actor?
+ANGEL I like acting. I really do. When you’re acting, it’s like you’re hiding behind a mask. But being famous is the opposite. When you’re famous, everyone knows your face, and there’s nowhere you can hide. It’s like being trapped inside your own body. Sometimes, I wish there were a way to escape from this body and start again in a new one, one nobody would recognize. But that’s impossible, so I’m doing the next best thing. Making myself so unlikeable that everyone stops caring about me.
+CARLY You must be desperate.
+ANGEL I am desperate. I’m desperate for everyone to stop treating me like a princess the whole time. Because I’m not a princess. I’m nothing special, no matter how many times Eva told me I was.
+CARLY looks hurt.
+ANGEL What’s the matter? Thought you were Eva’s favourite too? Didn’t you know that she’s a professional liar?
+CARLY No. Not exactly. It’s just that I really thought I’d gotten to know the real Eva Young. 
+ANGEL I’m sorry to break it to you, but when you’ve lived in this world as long as I have, you realize that these kinds of people can’t be real. It’s not just that they’re wearing masks the whole time. It’s that if you try to rip the mask off, there’ll be nothing there.
+CARLY There has to be more to her than that. There has to be a reason why she’s doing all of this.
+ANGEL Good TV? I don’t know, does it really matter that much?
+CARLY I just wish there were a way to expose her as a fraud to the world.
+ANGEL Yes. I’d do anything to rip off her mask in public. Make everyone see the true Eva Young.
+CARLY Maybe there is. In the series finale. It’s going to be live, right?
+ANGEL Sure.
+CARLY I have a way. But you’re going to have to help me.
+ANGEL I’ll do whatever it takes.
+Blackout.
+
+Scene 15
+The chatroom. BROCK and PROMPTER are in position. MANNEQUIN is onstage, covered by a sheet.
+BROCK Welcome to the series finale of A New You! Please welcome to the stage the face that launched a thousand brands, Eva Young!
+PROMPTER holds up APPLAUSE sign. EVA enters graciously.
+EVA Good evening America!
+PROMPTER holds up CHEER sign.
+EVA It sure has been a memorable three weeks, especially for me! With these kids tearing around my house all day, sometimes I’ve felt like a mother of five! But at least I don’t look like one!
+PROMPTER holds up LAUGH sign.
+EVA Seriously, folks, I’ve had a rare opportunity to witness five gifted caterpillars blossom into dazzlingly talented butterflies. But now only two finalists remain. Without further do, please welcome to the stage, for the last time…Carly Plunkett!
+PROMPTER holds up APPLAUSE sign. CARLY enters confidently.
+EVA And Angel Loveday!
+PROMPTER holds up APPLAUSE sign. ANGEL enters.
+EVA But that’s not all. We’re lucky to have some very special guests joining us for our finale. Please welcome to the stage the sensational boy band Two Dimensions!
+PROMPTER holds up a CHEER sign. TWO DIMENSIONS enter and perform a song.
+EVA Wow! You boys simply blew me away. Do we have any 2D fans in the house tonight?
+PROMPTER holds up a CHEER sign.
+EVA Don’t worry folks, Two Dimensions are going to stay right here and perform their new single at the end of tonight’s show. But before that, I’m sure everyone’s dying to know: just what do you have in store for us tonight, girls?
+CARLY It’s something very special that we’ve been working on. A story.
+EVA A story?
+CARLY Yes. A fantastic story, full of magic and adventure. But I can’t tell it alone.
+EVA (slightly unsure) I don’t understand. Doesn’t Angel have her own act?
+CARLY We thought, as we’ve been living together, it was only right that we should perform together for the last time.
+EVA (enthusiastically) OK, sweeties! I’m excited. Go ahead.
+CARLY removes the sheet from MANNEQUIN.
+CARLY Our story was inspired by this mannequin. We asked ourselves: if it could talk, what story could it tell?
+ANGEL Its story is about two princesses. Twin sisters. 
+CARLY One of them lives a life of solitude, locked away in her castle, and longs to see the world beyond the castle walls.
+ANGEL And the other is famous and admired everywhere she goes, but wants nothing more than to escape from her life.
+CARLY (snapping her fingers) Lights!
+Blackout.
+
+Scene 16
+Transition to a wild jungle. Beach. CALLIE and KIMMIE are clutching each other. SHAMAN is standing to one side.
+KIMMIE Where are we?
+CALLIE I don’t know. But we’re lucky to have made it ashore.
+KIMMIE What about the others? How are we going to get help?
+CALLIE I’m sure they’re fine. We’ve been split up, that’s all. But the first thing we need to do is find civilization.
+KIMMIE Look there, in the sand! Footprints!
+CALLIE Perfect. Someone must be close by. We can ask them for help.
+CALLIE and KIMMIE follow the footprints to where SHAMAN is standing.
+KIMMIE Oh, right.
+SHAMAN looks down at CALLIE and KIMMIE.
+KIMMIE We’re lost. Can you help us find our way back to our ship?
+Pause.
+CALLIE We can make it worth your while. We’re princesses from a distant land. Our parents will reward you for treating us well.
+Pause. SHAMAN looks back up.
+KIMMIE Habla espagnol?
+Pause.
+CALLIE Parlez-vous Francais?
+Pause.
+KIMMIE Please help us! We’ll die out here unless we find somewhere to stay.
+SHAMAN starts walking. CALLIE and KIMMIE look at each other, then start following him.
+CALLIE Is this the best idea?
+KIMMIE It’s either this or stay on the beach.
+
+Scene 17
+The Spring Temple. The EMPEROR sits on his throne, surrounded by MINISTER and HERALD. The SHAMAN, CALLIE and KIMMIE act out the MANNEQUIN’s words, stopping in front of the EMPEROR.
+MANNEQUIN The princesses Callie and Kimmie followed the silent traveller through dense rainforests, across mountains, and over raging rivers. In time, they came to a huge sprawling city cut into the side of a mountain. Although the princesses had seen or heard of many dazzling cities in their homeland, they had never seen anything that matched this city. 
+MINISTER Puny mortals! What brings you to the Spring Temple?
+CALLIE (to KIMMIE) Who does this guy think he is? Doesn’t he know who we are?
+KIMMIE (to CALLIE) Callie, I may not have done much travelling but I’ve read tales from explorers of empires far larger and more powerful than ours across the ocean. Show him some respect.
+MINISTER I’m waiting.
+CALLIE (to KIMMIE) Show him some respect? It’s him that should be showing us the respect!
+MINISTER It’s like I’m talking to a brick wall here.
+KIMMIE (bowing to EMPEROR) Salutations, your, er…actually, what is your official title?
+MINISTER How dare you address the Emperor of the Twelve Kingdoms, the High Dragon Priest of the Sea and Sky, the Ageless One! If you wish to speak, you speak to me.
+KIMMIE Your Excellency, we are the Princesses Callie and Kimmie. We’ve come from across the ocean – 
+MINISTER (pointing out towards audience) Take a look out there, “Princesses”. What do you see?
+CALLIE People, sir. Thousands and thousands of people.
+MINSTER That’s right! Thousands of pathetic, grovelling mortals under the Emperor’s command. Look at them all, staring up at us! And those are only the inhabitants of the Spring Temple. Everyone who walks on this land belongs to the Emperor. Do you understand?
+CALLIE I’ll have you know – 
+KIMMIE Of course we understand, Your Excellency. In fact, it was tales of the Emperor’s greatness that brought us here. We wish to learn how he’s able to live for so long.
+MINISTER starts to answer, but EMPEROR holds out his hand to stop him.
+EMPEROR You wish to know the secret of my eternal life? Of course! I just remember to take my vitamins every morning.
+KIMMIE (shocked) Really?
+EMPEROR Only joking! I would never tell a puny mortal such as yourself the secret of my eternal youth. OK, I’m bored of this conversation, it’s time to sacrifice you.
+MINISTER and HERALD grab CALLIE and KIMMIE and drag them to the altar.
+CALLIE What?
+KIMMIE But...you can’t sacrifice us! We’re too young to die!
+ALL bursts out laughing.
+MINISTER You, too young to die? If you ask me, Grandma, you’ve been very lucky to make it this far.
+KIMMIE I may look ancient, but I’m only twelve years old.
+MINISTER Twelve years old? (Starts laughing again)
+SHAMAN steps forward and holds up his hand.
+EMPEROR What is it, Shaman?
+SHAMAN shakes his head.
+EMPEROR What do you mean, we shouldn’t sacrifice them? Today’s feast day! And what kind of a feast day would it be without a sacrifice?
+MINISTER That would be, like, the world’s worst feast day.
+SHAMAN remains still, with his hand held up.
+EMPEROR Very well, Shaman. I’ll let my people decide your fate.
+HERALD The atmosphere is tense here in the Spring Temple as our unwilling captives are led out in front of a live temple audience. But what will it be? If you want to see them viciously sacrificed, cheer now!
+TEMPLE PROMPTER enters and holds up a SACRIFICE sign. EMPEROR encourages audience to cheer.
+HERALD If, on the other hand, you want the Emperor to show these captives mercy, cheer now!
+TEMPLE PROMPTER holds up a MERCY sign. CALLIE and KIMMIE plead with audience to cheer. Hopefully, the audience cheers louder.
+HERALD The people have spoken, and it seems they want…MERCY!
+EMPEROR looks disappointed.
+EMPEROR Well, all I can say is, in my day, we would have sacrificed you without a second thought. Shaman, show these “sisters” to their room.
+MANNEQUIN From that day on, the Princesses Callie and Kimmie were treated as welcome guests in the Spring Temple. They quickly returned to the lifestyle they had grown used to at home, having every wish swiftly met. Every wish, that is, except one: the one they had travelled here for. The secret of eternal youth. Kimmie grew older and frailer by the day, the mark of death clear on her face, until a chance encounter with the Emperor’s shaman. 
+ALL act out the MANNEQUIN’s words. SHAMAN is still throughout. All but CALLIE, KIMMIE, and SHAMAN exit.
+
+Scene 18
+KIMMIE Shaman, you know how the Emperor is able to stay alive forever, don’t you?
+SHAMAN looks at KIMMIE.
+KIMMIE Please, Shaman. You have to help me. I’m going to die if I’m trapped in this body for much longer!
+SHAMAN looks away from KIMMIE.
+KIMMIE You must help me. I’ve travelled across oceans to find you. I can pay any price you ask.
+Pause. Then, SHAMAN starts to walk. CALLIE, KIMMIE, and SHAMAN act out MANNEQUIN’s words. A fountain appears onstage.
+MANNEQUIN The Shaman led the princesses deep into the Spring Temple, through twisting corridors and stone doors. Deeper and deeper they went, until the princesses realized they were no longer in the temple at all, but in huge underground caverns underneath the mountain itself. Finally, they arrived at a mighty fountain bursting out of the rock beneath their feet.
+SHAMAN walks into the fountain and stops.
+CALLIE It’s beautiful!
+KIMMIE (same time) It’s incredible!
+CALLIE Can you feel the mud between your toes? It’s like getting a free pedicure.
+KIMMIE Just think of the power this stuff must have.
+CALLIE But I don’t understand. How’s it supposed to help you?
+CALLIE and KIMMIE look at SHAMAN, who does nothing.
+KIMMIE Shaman, please tell us what we’re supposed to do now.
+Pause. SHAMAN gestures into the fountain, next to him.
+KIMMIE I’m supposed to walk into it? Is that it?
+KIMMIE walks into the fountain and lies down. SHAMAN gestures to his other side. Pause.
+CALLIE I don’t understand. What happens now?
+KIMMIE Maybe you’re supposed to come too.
+CALLIE Why?
+KIMMIE I don’t know. I just think that’s what he’s telling us.
+CALLIE OK, then.
+CALLIE walks nervously into the fountain and lies down opposite KIMMIE. SHAMAN raises his hands. There is a dramatic transformation. CALLIE and KIMMIE writhe, and then lie still. CALLIE slowly sits up and looks around, confused, first at herself, then at KIMMIE.
+CALLIE That’s me! That’s my body! What’s wrong with me?
+Pause. SHAMAN does nothing.
+CALLIE (looking down at herself) I’m in my sister’s body. But what’s happened to my sister?
+Pause. SHAMAN does nothing.
+CALLIE Where is she? 
+Pause. SHAMAN does nothing.
+CALLIE Put me back! Put me back right now!
+CALLIE runs at SHAMAN, who steps out of the way and exits. CALLIE freezes.
+MANNEQUIN Too late, Princess Kimmie realized that her own life had been saved only for a terrible price: the life of her sister. In doing so, she learned a secret that many would have killed for: the secret of staying forever young. Of course, it only took a lifetime until her new body, her sister’s body, was old and fragile just like hers had been. But having cheated age once, it was easy to do it again. All she needed to find was another willing body for her spirit to enter. And, in time, another…
+As MANNEQUIN narrates, CALLIE progresses from grief-stricken to proud and regal and leaves the fountain. KIMMIE exits.
+
+Scene 19a
+CARLY enters and takes a position next to MANNEQUIN.
+MANNEQUIN …and another, travelling across continents and through time, leaving unwanted bodies behind her. She became accustomed to the wealth and fame of royalty, so when the royal lines fell from glamour, she became the next best thing: a celebrity. She was Ethel Clearwater, the famed singer. Then she was Bridget Makepeace, an acclaimed star of the silver screen. And finally, she was Eva Young.
+CARLY (puppeting MANNEQUIN; in unison with the above)…and another, travelling across continents and through time, leaving unwanted bodies behind her. She became accustomed to the wealth and fame of royalty, so when the royal lines fell from glamour, she became the next best thing: a celebrity. She was Ethel Clearwater, the famed singer. Then she was Bridgit Makepeace, an acclaimed star of the silver screen. And finally, she was Eva Young.
+ANNE, JANE, CATHERINE, ETHEL, and BRIDGET enter. CALLIE greets ANNE regally. As they touch, ANNE changes to become proud and regal like CALLIE, and CALLIE turns away and collapses. ANNE turns to greet JANE in the same way; JANE adopts ANNE’s characteristics while ANNE turns away and collapses. The sequence continues through CATHERINE, ETHEL, and BRIDGET. ETHEL and BRIDGET also curtsey as their names are mentioned. EVA enters, looking wide-eyed and innocent. BRIDGET greets EVA, and EVA returns to her usual character, charismatically playing to the audience, while BRIDGET collapses. ANNE, JANE, CATHERINE, ETHEL, and BRIDGET exit.
+
+Scene 19b
+Transition to present day. The chatroom returns. ANGEL, BROCK, and PROMPTER enter as they were before. EVA snaps out of her role in the story, flustered.
+EVA Stop!
+EVA pushes the MANNEQUIN over. ALL are stunned out of their performance.
+EVA All right. I’ve seen enough. This is my story! This wasn’t supposed to be heard by anyone else. Why would you do this to me?
+ANGEL Because you’re a phoney, spineless, cheating, morally bankrupt old fraud!
+EVA How dare you call me old! I’m still in my prime, and I’ll always be. Do you understand? I – I – (Breaks down crying) How could you do this to me, Carly? I thought you understood me.
+CARLY So did I. But you lied to all of us. I thought there was more to you, but I was wrong.
+EVA No, Carly, I was wrong. You made me realize that. Everything about my life is a lie. 
+ANGEL I knew it.
+EVA Eva Young doesn’t exist. I made her – well, I made myself – up. I suppose it’s about time I told the truth. I’m not 27. I’m not even 42. I’m…well, I’m 512 years old.
+PROMPTER holds up a sign saying GASP. CARLY and ANGEL gasp.
+EVA It’s true, all of it. I’m Princess Kimmie. I was destined to die before my fifteenth birthday. But instead, I learned how to hop from one body to another, so that I’d never have to grow old.
+CARLY What? That’s just a story you made up.
+EVA I made nothing up, Carly. That story is the only true thing I’ve ever said.
+CARLY What?
+EVA My sister Callie sacrificed her life for mine. If I’d let myself just shrivel up and die again, her sacrifice would have been for nothing. So I kept on going. Do you see what this has all been about? I needed a new body to move into, so I could continue my work. I could have given you everything you needed to succeed in life – fame and fortune – and then, when everything was ready, I would have left behind Eva Young and become Carly Plunkett. But…something held me back. It’s because you reminded me of who I used to be, when I was still Kimmie, when I was still truly myself. After that, I became so sure that I deserved to live that I didn’t care about who else had to die. But I was wrong, so wrong. And now it’s down to me to make things right.
+EVA flees the stage. ALL are left standing confusedly.
+BROCK If you’ve just tuned in, you’re joining us in the middle of the gripping live finale of A New You! We’ve just seen the contestants’ final challenge being completed, a…er…very unusual performance which even has our fabulous host, Eva Young, in tears! But don’t worry if you missed it, because we’ll be repeating it soon, just as soon as we’ve worked out what’s going on!
+Theme music plays discordantly. The show ends in chaos.
+ANGEL Well, I didn’t see that coming.
+CARLY I don’t get it. That was just a story she made up. I found it written in an old book of hers. It sounded like she thought it was real.
+ANGEL The pressures of celebrity life can drive anyone insane. Just trust me on that one. I’d say she knew she had to retire soon, and she just couldn’t face becoming an old woman that no-one cared about. So she made up some fantasy about how she could escape from it.
+CARLY Sure, maybe. But what if we were wrong about her?
+ANGEL Whatever the truth is, she deserved everything she got. Don’t waste your time feeling sorry for her.
+Blackout.
+
+Scene 20
+The collection. EVA is standing among her exhibits. As she talks, the exhibits begin to leave, until only the SHAMAN is left.
+EVA Such a beautiful collection. It took me years to build it, you know. Hundreds of years of saving all my precious heirlooms and memories from each life that I lived…It’s funny that I can’t even remember them now. They all merge into one. And it all started with you. My first gift. (Pause. The following is full of pauses, as she waits for a reply.) You may as well tell me how it works now. So tell me. Who are you? How did you make it happen? Just give me a clue. Your secret is going to die with me, one way or the other.
+EVA removes SHAMAN’s mask, to reveal AGE.
+AGE Hello, my old friend. Remember me?
+EVA Who are you?
+AGE I am Age. I’ve been waiting for you a long time.
+AGE descends on EVA, covering her with its black cloak. EVA screams.
+Long blackout.
+
+Scene 21
+The chatroom. A sign reads THE TRUE YOU! BROCK and PROMPTER are present.
+BROCK Ladies and gentlemen, welcome to the season premiere of The True You! Now please put your hands together for your hosts, Carly Plunkett and Angel Loveday!
+PROMPTER holds up APPLAUSE sign. CARLY and ANGEL enter, waving.
+BROCK And, of course, the house band, Two Dimensions!
+TWO DIMENSIONS enter.
+CARLY Before we begin, we’d like to take a moment to thank all the people who make this show possible. So put your hands together for our wonderful actors!
+TWO DIMENSIONS starts singing and dancing. 
+Curtain call.
