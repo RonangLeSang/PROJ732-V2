@@ -4,27 +4,36 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
 
-        HashMap<String, Integer> hash1 = new HashMap<String, Integer>();
-        hash1.put("feur", 4);
-        hash1.put("carlos", 4);
-        hash1.put("andres", 4);
-        hash1.put("cortes", 4);
-        hash1.put("miranda", 4);
+        ArrayList<String> text1 = new ArrayList<>();
+        text1.add("carlos andres");
+        text1.add("cortes miranda feur");
 
-        HashMap<String, Integer> hash2 = new HashMap<String, Integer>();
-        hash2.put("feur", 4);
-        hash2.put("andres", 4);
-        hash2.put("ronan", 4);
-        hash2.put("ciao", 4);
-        hash2.put("explosion", 4);
+        ArrayList<String> text2 = new ArrayList<>();
+        text2.add("explosion feur");
+        text2.add("ronan ciao andres");
 
-        ArrayList<HashMap<String, Integer>> fullHashMap = new ArrayList<HashMap<String, Integer>>();
+        Mapper mapper1 = new Mapper(text1);
+        Mapper mapper2 = new Mapper(text2);
 
-        fullHashMap.add(hash1);
-        fullHashMap.add(hash2);
+        mapper1.start();
+        mapper2.start();
 
-        Reducer reduce = new Reducer(fullHashMap);
+        // Wait for both threads to finish
+        try {
+            mapper1.join();
+            mapper2.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        ArrayList<HashMap<String, Integer>> hashList = new ArrayList<HashMap<String, Integer>>();
+        hashList.add(mapper1.getWordCount());
+        hashList.add(mapper2.getWordCount());
+
+        Reducer reduce = new Reducer(hashList);
         System.out.println(reduce.testMerge());
-    }
 
+        Coordinator coordinator = new Coordinator();
+        System.out.println(coordinator.read("data/text.txt"));
+    }
 }

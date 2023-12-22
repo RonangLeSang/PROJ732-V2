@@ -8,7 +8,7 @@ public class WordCounter {
 
     public WordCounter(ArrayList<String> sentences){
         for(String sentence : sentences){
-            String[] sentenceList = sentence.substring(0, sentence.length() - 1).split(" ");
+            String[] sentenceList = sentence.split(" ");
             for (String element : sentenceList) {
                 text.add(element);
             }
@@ -17,6 +17,7 @@ public class WordCounter {
 
     public HashMap count(){
         for(String word : text){
+            System.out.println(text);
             if(wordCount.containsKey(word)){
                 wordCount.put(word, wordCount.get(word)+1);
             }else{
