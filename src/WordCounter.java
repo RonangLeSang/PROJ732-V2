@@ -17,7 +17,6 @@ public class WordCounter {
 
     public HashMap count(){
         for(String word : text){
-            System.out.println(text);
             if(wordCount.containsKey(word)){
                 wordCount.put(word, wordCount.get(word)+1);
             }else{

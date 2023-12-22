@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class Coordinator {
 
@@ -21,6 +22,27 @@ public class Coordinator {
         return text;
     }
 
+    public ArrayList<ArrayList<String>> splitList(ArrayList<String> listPhrases, int nbWorkers){
+        ArrayList<ArrayList<String>> result = new ArrayList<>();
 
+        int sublistSize = listPhrases.size() / nbWorkers;
+        int remainder = listPhrases.size() % nbWorkers;
 
+        int startIndex = 0;
+        for (int i = 0; i < nbWorkers; i++) {
+            int endIndex = startIndex + sublistSize + (i < remainder ? 1 : 0);
+            result.add(new ArrayList<>(listPhrases.subList(startIndex, endIndex)));
+            startIndex = endIndex;
+        }
+
+        return result;
+    }
+    public static void main(String[] args) {
+        Coordinator coordinator = new Coordinator();
+        String text = coordinator.read("data/text_AnewYou.txt");
+        Splitter splitter = new Splitter();
+        ArrayList<String> splittedSentences = splitter.splitPhrases(splitter.normalization(text));
+        ArrayList<ArrayList<String>> splitResult = coordinator.splitList(splittedSentences, 2);
+        System.out.println(splitResult);
+    }
 }
