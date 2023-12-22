@@ -26,4 +26,5 @@ public class Main {
         Reducer reduce = new Reducer(fullHashMap);
         System.out.println(reduce.testMerge());
     }
+
 }
