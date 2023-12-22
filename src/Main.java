@@ -4,16 +4,12 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
 
-        ArrayList<String> text1 = new ArrayList<>();
-        text1.add("carlos andres");
-        text1.add("cortes miranda feur");
-
-        ArrayList<String> text2 = new ArrayList<>();
-        text2.add("explosion feur");
-        text2.add("ronan ciao andres");
-
-        Mapper mapper1 = new Mapper(text1);
-        Mapper mapper2 = new Mapper(text2);
+        Coordinator coordinator = new Coordinator();
+        String text = coordinator.read("data/text_AnewYou.txt");
+        Splitter splitter = new Splitter();
+        ArrayList<String> splittedSentences = splitter.splitPhrases(splitter.normalization(text));
+        Mapper mapper1 = new Mapper(splittedSentences);
+        Mapper mapper2 = new Mapper(splittedSentences);
 
         mapper1.start();
         mapper2.start();
@@ -32,8 +28,5 @@ public class Main {
 
         Reducer reduce = new Reducer(hashList);
         System.out.println(reduce.testMerge());
-
-        Coordinator coordinator = new Coordinator();
-        System.out.println(coordinator.read("data/text.txt"));
     }
 }

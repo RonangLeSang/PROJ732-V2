@@ -7,16 +7,14 @@ public class Coordinator {
     String text = "";
 
     public String read(String path) {
-        try {
-            FileReader fileReader = new FileReader(path);
-            BufferedReader reader = new BufferedReader(fileReader);
-            String line = reader.readLine();
+        try (FileReader fileReader = new FileReader(path);
+             BufferedReader bufferedReader = new BufferedReader(fileReader)) {
 
-            while (line != null) {
-                text += "\n" + line;
-                line = reader.readLine();
+            String line;
+            while ((line = bufferedReader.readLine()) != null) {
+                text += line;
             }
-            reader.close();
+
         } catch (IOException e) {
             e.printStackTrace();
         }
