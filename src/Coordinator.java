@@ -37,12 +37,4 @@ public class Coordinator {
 
         return result;
     }
-    public static void main(String[] args) {
-        Coordinator coordinator = new Coordinator();
-        String text = coordinator.read("data/text_AnewYou.txt");
-        Splitter splitter = new Splitter();
-        ArrayList<String> splittedSentences = splitter.splitPhrases(splitter.normalization(text));
-        ArrayList<ArrayList<String>> splitResult = coordinator.splitList(splittedSentences, 2);
-        System.out.println(splitResult);
-    }
 }
